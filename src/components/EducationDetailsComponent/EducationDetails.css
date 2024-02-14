@@ -1,0 +1,11 @@
+.education{
+    padding: 20px;
+}
+.degree{
+    border: 2px solid rgb(55, 54, 54);
+    border-radius: 6px;
+}
+.leftMargin{
+    margin-left: 10px;
+    size: 35px;
+}
